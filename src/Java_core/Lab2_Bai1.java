@@ -8,7 +8,7 @@ public class Lab2_Bai1 {
 		double a, b;
 		double x;
 		a = scan.nextDouble();
-		b = scan.nextDouble2();
+		b = scan.nextDouble();
 		if (a == 0 && b == 0) {
 			System.out.println("Phuong trinh co vo so nghiem");
 		} else if (a == 0 && b != 0) {
