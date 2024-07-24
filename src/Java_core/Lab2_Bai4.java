@@ -62,6 +62,8 @@ public class Lab2_Bai4 {
 			break;
 		case 4:
 			System.exit(0);
+		default:
+			System.exit(0);
 		}
 		scan.close();
 	}
